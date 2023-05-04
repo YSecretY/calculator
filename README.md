@@ -3,6 +3,14 @@
     2. Convert numbers to any base system between 2 and 16
     3. Calculate in any base system between 2 and 16
 
+
+
+
+https://user-images.githubusercontent.com/114690035/236183460-ef1f22a7-8a21-4296-bcec-4ea0084d90dc.mov
+
+
+
+
 ## NOTE:heavy_exclamation_mark: 
     There is a menu in top left corner that allows to convert numbers
 
